@@ -12,5 +12,6 @@ b=67
 con=a+b
 print("The answer is :",con)
 
-for i in range(10):
+for i in range(100):
     print("Excelent")
+    print('you are awesome')
