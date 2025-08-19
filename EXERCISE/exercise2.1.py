@@ -1,4 +1,4 @@
-"""#area of rectangle
+#"area of rectangle
 length=float(input("Enter length of rectangle: "))
 width=float(input("Enter the : "))
 #area calculation
@@ -10,9 +10,9 @@ num=int(input("Type a number:"))
 if num%2==0:
     print("its even number")
 else:
-    print("its odd number")"""
+    print("its odd number")
 
-"""#To fing the largest of three numbers
+#To fing the largest of three numbers
 num1=input("First number: ")
 num2=input("Second number: ")
 num3=input("Thirdnumber: ")
@@ -22,12 +22,12 @@ if num1>num2 and num2>num3:
 elif num2>num1 and num2>num3:
     print("The largest number is :", num2)
 else:
-    print("The largest number is :", num3)"""
+    print("The largest number is :", num3)
 
-"""#to convet temp. into fahrenheit
+#to convet temp. into fahrenheit
 temp=input("enter temp. in celsius: ")
 temp=float(temp)
 temp=(temp+32)
-print("The temp. in fahraanheit is: ",temp)"""
+print("The temp. in fahraanheit is: ",temp)
 
 

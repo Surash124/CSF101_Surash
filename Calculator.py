@@ -1,6 +1,6 @@
 try:
     A=float(input("enter first no.:"))
-    B=input("operator:")
+    B=input("operator(+,-,*,/):")
     C=float(input("enter second no.:"))
     if B == "+":
         cal=A + C
