@@ -1,4 +1,4 @@
-'''class stack:
+class stack:
     def __init__(self):
         self.items = [10,20,30,]
 
@@ -11,10 +11,9 @@
 stack = stack()
 popped = stack.pop()
 print(popped)
-print(stack.items)'''
-
-
-'''def fac(n):
+print(stack.items)
+'''
+# def fac(n):
     if n == 0 or n == 1:
         return 1
     else:
@@ -64,7 +63,7 @@ def preorder(Root):
 preorder(Root).val
 print(Root.right.right.val)'''
 
-def insert(root,key):
+'''def insert(root,key):
     if root is None:
         return TreeNode(key)
     if key < root.val:
@@ -79,4 +78,4 @@ root = insert(root,40)
 print(root.val)
 root = insert(70)
 print(root.right.val)
-root = insert(60)
+root = insert(60)'''
