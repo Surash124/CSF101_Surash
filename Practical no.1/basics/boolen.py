@@ -3,7 +3,9 @@ is_employed = False
 print(is_student, is_employed)
 
 is_student_and_employed = is_student and is_employed
-print(is_student_and_employed)#returns true if both true ,else false
+print(is_student_and_employed)               
+
+#returns true if both true ,else false
 is_student_or_employed = is_student or is_employed
 print(is_student_or_employed)
 
