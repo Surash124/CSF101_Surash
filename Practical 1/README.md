@@ -15,7 +15,7 @@ Each file demonstrates a specific concept with examples.
 
 - *a) Boolean.py*  
   Demonstrates Boolean values (True, False) and logical operators (and, or, not).  
-  ![Boolean Example](../Images/boolen.png)
+  ![Boolean Example](../Images/Boolen.png)
   ###Example Output:
   - True False
   - False
