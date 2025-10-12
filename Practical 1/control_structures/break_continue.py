@@ -6,9 +6,9 @@ while True:
         break
     print("loop ended")
 
-for num in rangee(1,6):
+for num in range(1,6):
     for num in range(1,6):
         if num % 2 == 0:
             continue
-        print(num)
+        print(num, end=" ")
         
